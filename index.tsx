@@ -14,7 +14,7 @@ class App extends Component {
     super(props);
     this.state = {
       name: 'React',
-      //arr :['VKS', 'ARE', 'react', 'node', 'are'],
+      arr: ['VKS', 'ARE', 'react', 'node', 'are'],
     };
     testfn();
   }
